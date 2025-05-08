@@ -39,14 +39,6 @@ A simple, colorful Todo List application built with HTML, CSS, JavaScript, and R
 - **Delete a task**: Click the trash icon (🗑️) to remove a task.
 - Tasks are automatically saved to localStorage and persist after page reload.
 
-## Deployment
-The app is deployed on GitHub Pages:
-- URL: `https://your-username.github.io/todo-list-app`
-- To deploy your own:
-  1. Push the code to a GitHub repository.
-  2. Go to **Settings > Pages** in the repository.
-  3. Set **Source** to `main` branch and `/ (root)` folder.
-  4. Save and access the provided URL.
 
 ## Folder Structure
 ```
